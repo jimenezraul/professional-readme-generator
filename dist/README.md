@@ -5,12 +5,15 @@
 This is an application that generate a readme file base on users input.
 
 ## Table of Contents
-- [Installation](#installation)
-- [Usage](#usage)
-- [License](#license)
-- [Contributing](#contributing)
-- [Questions](#questions)
-- [Contact](#contact)
+- [Professional Readme Generator](#professional-readme-generator)
+  - [Description](#description)
+  - [Table of Contents](#table-of-contents)
+  - [Installation](#installation)
+  - [Usage](#usage)
+  - [License](#license)
+  - [Contributing](#contributing)
+  - [Tests](#tests)
+  - [Questions](#questions)
 
 ## Installation
 npm i inquirer && npm i fs
