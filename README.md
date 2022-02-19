@@ -4,21 +4,21 @@
 ## Description
 This is an application that generate a readme file base on users input.
 
-## Walkthrough Video
-![Video Gif](./video/app.gif)  
-Demo video -> [Video Link](https://drive.google.com/file/d/1tBVS27w6IN-FkBnsmj-hLytwaVcaXuHd/view)
-
 ## Table of Contents
 - [Professional Readme Generator](#professional-readme-generator)
   - [Description](#description)
-  - [Walkthrough Video](#walkthrough-video)
   - [Table of Contents](#table-of-contents)
+  - [Walkthrough Video](#walkthrough-video)
   - [Installation](#installation)
   - [Usage](#usage)
   - [License](#license)
   - [Contributing](#contributing)
   - [Tests](#tests)
   - [Questions](#questions)
+
+## Walkthrough Video
+Video -> [Video Link](https://drive.google.com/file/d/1tBVS27w6IN-FkBnsmj-hLytwaVcaXuHd/view)
+![Video Gif](./video/app.gif)  
 
 ## Installation
 npm i inquirer && npm i fs
