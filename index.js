@@ -111,7 +111,7 @@ const questions = [
 function writeToFile(fileName, data) {
     fs.appendFile(fileName, markdown(data), (err) => {
         if (err) {
-          reject(err);
+          console.log(err);
           return;
         } else {
             console.log("File created!")
