@@ -2,7 +2,7 @@
 ![badge](https://img.shields.io/badge/license-MIT-brightgreen)
 
 ## Description
-This is an application that generate a readme file base on users input.
+This is an application that generate a readme file base on user inputs.
 
 ## Table of Contents
 - [Professional Readme Generator](#professional-readme-generator)
@@ -16,7 +16,7 @@ This is an application that generate a readme file base on users input.
   - [Questions](#questions)
 
 ## Installation
-npm i inquirer && npm i fs
+npm i fs && npm i inquirer
 
 ## Usage
 This application will save you time and effort in writing your readme files. Just answer a few questions and the application will generate a professional readme file for you.
