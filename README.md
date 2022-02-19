@@ -17,7 +17,8 @@ This is an application that generate a readme file base on users input.
   - [Questions](#questions)
 
 ## Walkthrough Video
-Video -> [Video Link](https://drive.google.com/file/d/1tBVS27w6IN-FkBnsmj-hLytwaVcaXuHd/view)
+Video -> [Video Link](https://drive.google.com/file/d/1tBVS27w6IN-FkBnsmj-hLytwaVcaXuHd/view)   
+
 ![Video Gif](./video/app.gif)  
 
 ## Installation
